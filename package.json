@@ -1,0 +1,19 @@
+{
+  "name": "kindness-frontend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chromezoneeths/kindness-extension.git"
+  },
+  "author": "ETHS Chromezone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chromezoneeths/kindness-extension/issues"
+  },
+  "homepage": "https://github.com/chromezoneeths/kindness-extension#readme"
+}

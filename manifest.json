@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"name": "kindness",
+	"version": "0.0.1",
+	"default_locale": "en",
+	"description": "yeet",
+	"oauth2": {
+		"client_id": "",
+		"scopes": [
+			"https://www.googleapis.com/auth/userinfo.email",
+			"https://www.googleapis.com/auth/userinfo.profile"
+		]
+	}
+}
